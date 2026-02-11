@@ -118,9 +118,4 @@ Calculated key revenue metrics:
 3. Run SQL queries in the provided order
 4. Review outputs for funnel, timing, and revenue insights
 
----
 
-## 📌 Notes
-This project was completed as a guided learning exercise.
-All queries, logic, and insights reflect my understanding of
-SQL-based data analysis and customer funnel analytics.
